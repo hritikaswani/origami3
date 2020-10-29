@@ -1,0 +1,57 @@
+.origami{
+
+    width:520px;
+    font-family: fantasy;
+   
+ 
+}
+
+a:hover{
+    color:red;
+}
+
+
+.d1{
+    display:flex;
+    justify-content: baseline;
+}
+
+.d2{
+    display:flex;
+    justify-content: baseline;
+}
+
+.d3{
+    display:flex;
+    justify-content: baseline;
+}
+
+.t2{
+    color: #00f7ff;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB)
+}
+
+.t3{
+    color: #00f7ff;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB)
+}
+
+.t1{
+    color: #00f7ff;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB)
+}
+.e1{
+    color: #00f7ff;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB)
+}
+
+.e2{
+    color: #00f7ff;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB)
+}
+
+.e3{
+    color: #00f7ff;
+    background: linear-gradient(-45deg, #EE7752, #E73C7E, #23A6D5, #23D5AB)
+}
+
